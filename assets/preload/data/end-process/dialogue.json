@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "tdl_idle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tdl_static",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*talks about how everyone hates him*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tdl_static",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*talks trash about the chosen one*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tdl_static",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(the dark lord tells you he wants to have a rap battle with you)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tdl_laugh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "*evil laugh*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Heh, don't really know the hell is going on but you're going down. Let's rap!"
+		}
+	]
+}
